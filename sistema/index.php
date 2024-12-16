@@ -14,7 +14,7 @@
 	<link rel="icon" href="../images/clipboard.png">
 	<link rel="stylesheet" href="../styles/style.css">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
-	<script src="../scripts/layout.js">
+	<script src="../scripts/layout.js"></script>
 </head>
 <body>
 	<div>
